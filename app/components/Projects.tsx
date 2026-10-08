@@ -105,7 +105,7 @@ export default function Projects() {
   return (
     <section id="work" className="px-6 py-28">
       <div className="mx-auto max-w-5xl">
-        <SectionHeading eyebrow="01 / selected work" title="Things I've shipped" />
+        <SectionHeading eyebrow="01 / selected work" title="Things I have shipped" />
 
         <div className="mt-12 space-y-6" style={{ perspective: '1000px' }}>
           {featured.map((p, i) => (
