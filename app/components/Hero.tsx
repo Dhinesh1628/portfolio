@@ -28,7 +28,7 @@ export default function Hero() {
             transition={{ duration: 0.5 }}
             className="font-mono text-sm text-magenta-glow"
           >
-            Hello, I'm
+            Hello, I&apos;m
           </motion.p>
 
           <motion.h1

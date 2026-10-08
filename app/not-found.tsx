@@ -8,7 +8,7 @@ export default function NotFound() {
         $ command not found
       </h1>
       <p className="mt-3 max-w-sm text-fog">
-        This route doesn't exist. Try heading back to the homepage.
+        This route doesn&apos;t exist. Try heading back to the homepage.
       </p>
       <Link
         href="/"

@@ -17,10 +17,10 @@ export default function Contact() {
         >
           <p className="font-mono text-xs uppercase tracking-widest text-teal">04 / contact</p>
           <h2 className="mt-3 font-display text-3xl font-semibold text-paper sm:text-4xl">
-            Let's build something.
+            Let&apos;s build something.
           </h2>
           <p className="mx-auto mt-4 max-w-md text-fog">
-            Open to SDE and Generative AI internship roles. Reach out and I'll get back within a
+            Open to SDE and Generative AI internship roles. Reach out and I&apos;ll get back within a
             day or two.
           </p>
 

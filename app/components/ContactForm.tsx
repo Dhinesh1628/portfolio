@@ -45,7 +45,7 @@ export default function ContactForm() {
   if (status === 'success') {
     return (
       <div className="rounded-lg border border-teal/40 bg-teal/5 p-6 text-center font-mono text-sm text-teal">
-        ✓ message sent — I'll reply within a day or two.
+        ✓ message sent — I&apos;ll reply within a day or two.
       </div>
     );
   }
